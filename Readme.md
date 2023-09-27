@@ -3,12 +3,12 @@ PS Code : SIH1493
 
 Team Name: Mahadev 6
 - Team Members:
-    Gujar Moksh Hemant
-    Gor Mandaar Ravi
-    Kansara Suhani Vivek
-    Prajapati Vaidehi Kiritkumar
-    Shah Naineesha Chirag
-    Dodiya Manasvi Maheshbhai
+    Gujar Moksh Hemant,
+    Gor Mandaar Ravi,
+    Kansara Suhani Vivek,
+    Prajapati Vaidehi Kiritkumar,
+    Shah Naineesha Chirag,
+    Dodiya Manasvi Maheshbhai.
 - Contact Email:
     1. gormandaar@gmail.com
     2. gujarmoksh0101@gmail.com
